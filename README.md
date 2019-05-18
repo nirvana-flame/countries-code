@@ -1,4 +1,4 @@
-# countries-code
+# countries-code [![Known Vulnerabilities](https://snyk.io/test/github/nirvana-flame/countries-code/badge.svg?targetFile=package.json)](https://snyk.io/test/github/nirvana-flame/countries-code?targetFile=package.json)
 
 Data fetched from https://unstats.un.org/unsd/methodology/m49/ (UN)
 and from Wikipedia
@@ -23,7 +23,7 @@ console.log(countriesQuery.allCountriesList());
 ```
 
 ```js
-var countriesQuery = require("countries-code");
+const countriesQuery = require("countries-code");
 
 console.log(countriesQuery.allCountriesList());
 //[....,

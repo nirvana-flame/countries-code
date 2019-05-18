@@ -1,6 +1,6 @@
 {
     "name": "countries-code",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "List of contries data with alpha-2, alpha-3 and number codes",
     "main": "countries_code.js",
     "directories": {
@@ -30,5 +30,6 @@
     "devDependencies": {
         "chai": "4.2.0",
         "mocha": "6.1.4"
-    }
+    },
+    "dependencies": {}
 }
