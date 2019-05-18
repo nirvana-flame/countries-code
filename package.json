@@ -1,6 +1,6 @@
 {
     "name": "countries-code",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "List of contries data with alpha-2, alpha-3 and number codes",
     "main": "countries_code.js",
     "directories": {
@@ -16,10 +16,20 @@
     "keywords": [
         "countries",
         "countries name in french",
-        "ISO 3166-1-alpha-2",
         "ISO 3166-1",
+        "alpha-2 code",
+        "alpha-3 code",
+        "alpha-2 code to alpha-3 code",
+        "alpha-3 code to alpha-2 code",
+        "alpha2 to alpha3 code",
+        "alpha3 to alpha2 code",
+        "alpha-2 code to country name",
+        "alpha-3 code to country name",
+        "alpha-3 code",
         "2 Char long country code",
-        "3 Char long country code"
+        "3 Char long country code",
+        "getCountry by aplhaCode 2 or 3",
+        "getCountry by aplha2 or alpha3"
     ],
     "author": "NirvanaFlame <nirvanacodes@gmail.com>",
     "license": "MIT",
