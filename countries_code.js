@@ -21,14 +21,16 @@ exports.getAllAlphaThreeCodes = () => {
     return alpha3countries;
 };
 
-exports.getCountry = (countryCode) => {
+exports.getCountry = countryCode => {
+    countryCode = countryCode ? countryCode.toUpperCase() : null;
     if (isAlphaTwo(countryCode)) {
         return alpha2ToCountryMap[countryCode] || wrongInputErrorMsg;
     }
     return alpha3ToCountryMap[countryCode] || wrongInputErrorMsg;
 };
 
-exports.convertAlphaCode = (countryCode) => {
+exports.convertAlphaCode = countryCode => {
+    countryCode = countryCode ? countryCode.toUpperCase() : null;
     if (isAlphaTwo(countryCode)) {
         return alpha2ToAlpha3Map[countryCode] || wrongInputErrorMsg;
     }
