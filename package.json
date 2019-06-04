@@ -1,6 +1,6 @@
 {
     "name": "countries-code",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "List of contries data with alpha-2, alpha-3 and number codes",
     "main": "countries_code.js",
     "directories": {
@@ -28,8 +28,8 @@
         "alpha-3 code",
         "2 Char long country code",
         "3 Char long country code",
-        "getCountry by aplhaCode 2 or 3",
-        "getCountry by aplha2 or alpha3"
+        "getCountry by alphaCode 2 or 3",
+        "getCountry by alpha2 or alpha3"
     ],
     "author": "NirvanaFlame <nirvanacodes@gmail.com>",
     "license": "MIT",
