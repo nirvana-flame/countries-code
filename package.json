@@ -1,6 +1,6 @@
 {
     "name": "countries-code",
-    "version": "1.0.8",
+    "version": "1.0.9",
     "description": "List of contries data with alpha-2, alpha-3 and number codes",
     "main": "countries_code.js",
     "directories": {
@@ -39,7 +39,7 @@
     "homepage": "https://github.com/nirvana-flame/countries-code",
     "devDependencies": {
         "chai": "4.2.0",
-        "mocha": "6.2.0"
+        "mocha": "^8.1.2"
     },
     "dependencies": {}
 }

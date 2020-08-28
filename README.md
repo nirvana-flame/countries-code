@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Known Vulnerabilities](https://snyk.io/test/github/nirvana-flame/countries-code/badge.svg?targetFile=package.json)](https://snyk.io/test/github/nirvana-flame/countries-code?targetFile=package.json)
-[![npm](https://img.shields.io/badge/npm-1\.0\.6-yellow.svg)](https://www.npmjs.com/package/countries-code)
+[![npm](https://img.shields.io/badge/npm-1\.0\.9-yellow.svg)](https://www.npmjs.com/package/countries-code)
 
 Data fetched from https://unstats.un.org/unsd/methodology/m49/ (UN)
 and from Wikipedia
