@@ -39,7 +39,7 @@
     "homepage": "https://github.com/nirvana-flame/countries-code",
     "devDependencies": {
         "chai": "4.2.0",
-        "mocha": "8.1.2"
+        "mocha": "9.2.2"
     },
     "dependencies": {}
 }
